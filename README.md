@@ -2,7 +2,7 @@
 <img alt = "Trang chủ" src = "https://raw.githubusercontent.com/Boykagamelau/Naruto-Senki-Battle/main/H%C3%ACnh%20%E1%BA%A3nh/icon.png" />
 1 - nhấn vào chử cài đặt bên dưới để tải
 
-- [file](https://drive.google.com/file/d/1ka1ylNjuHo2pQFOQAmnM5WdiqNGp8VF-/view?usp=drivesdk)
+- [Cài Đặt](https://drive.google.com/file/d/1ka1ylNjuHo2pQFOQAmnM5WdiqNGp8VF-/view?usp=drivesdk)
 
 <p>
   <img alt = "Cập nhật" src = "https://img.shields.io/badge/update-03/11/2022-blue.svg?cacheSeconds=2592000" />
