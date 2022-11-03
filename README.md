@@ -13,7 +13,6 @@
 
 ### 🏠 [Trang chủ] (https://github.com/Boykagamelau#)
 
-<img alt = "Trang chủ" src = "https://github.com/Boykagamelau/Naruto-Senki-Battle/blob/main/H%C3%ACnh%20%E1%BA%A3nh/mobizen_20221103_144822_001.mp4" />
 
 <img alt = "Trang chủ" src = "https://github.com/Boykagamelau/Naruto-Senki-Battle/blob/main/H%C3%ACnh%20%E1%BA%A3nh/Screenshot_20221103-144757_Naruto%20Senki%20Battle%20Of%20All%20Kage.jpg" />
 
